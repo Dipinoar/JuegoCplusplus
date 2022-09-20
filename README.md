@@ -1,3 +1,3 @@
 # first-repository
-#It consist a game of a spaceship made with C++
-#and a matlab execuable file 
+It consist a game of a spaceship made with C++
+and a matlab executable file 
